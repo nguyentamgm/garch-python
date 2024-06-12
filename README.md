@@ -11,7 +11,7 @@ Generalized AutoRegressive Conditional Heteroskedasticity (GARCH) is a statistic
 # References
 
 ### Docs
-- https://medium.com/@corrsudo apt-get updateedaniel1500/forecasting-volatility-deep-dive-into-arch-garch-models-46cd1945872b (with python implementation guideline)
+- https://medium.com/@corredaniel1500/forecasting-volatility-deep-dive-into-arch-garch-models-46cd1945872b (with python implementation guideline)
 - https://web-static.stern.nyu.edu/rengle/GARCH101.PDF
 
 ### Codes
